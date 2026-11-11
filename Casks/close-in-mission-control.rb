@@ -1,6 +1,6 @@
 cask "close-in-mission-control" do
-  version "0.1.1"
-  sha256 "88740afadb0a68a8b7afbd6bd94cb05a9f359b62cf6befde27a114da6b250d56"
+  version "0.1.2"
+  sha256 "7d6a25e12b09765fe237df8d47c773219bf174a8126ae17f059fc283c6d90b17"
 
   url "https://github.com/leyiwu/close-in-mission-control/releases/download/v#{version}/Close-in-Mission-Control-#{version}.zip"
   name "Close in Mission Control"
