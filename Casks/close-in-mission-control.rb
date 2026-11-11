@@ -7,7 +7,7 @@ cask "close-in-mission-control" do
   desc "Adds a close button to window thumbnails in Mission Control"
   homepage "https://github.com/leyiwu/close-in-mission-control"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Close in Mission Control.app"
 
